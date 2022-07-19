@@ -2,9 +2,9 @@
 
 A simple to do list App built with React
 
-There is no back-end for this app and so the to do data that you input will not be persistent.
+There is no back-end for this app and so any data you input will not be persistent and will be lost upon leaving the site or refreshing the page.
 
-This app is just to show case the basic grasping of React concepts.
+This app is one of my first projects and is here to display my understanding of basic React concepts.
 
 ## See it here
 
