@@ -6,6 +6,13 @@ Please note: There is no back-end or database for this app. Any data you input w
 
 This app is one of my first projects and is here to display my understanding of basic React concepts.
 
+## Instructions
+
+- type a to do item in the input field
+- click the "add to do" button to add this item to the list
+- If you have completed a to do item, click the green tick ✅ next to the item to cross it off the list
+- if you want to delete a specific item, click the red cross ❌ next to the item to delete the item
+
 ## See it here
 
 https://blakes-todo-list.netlify.app
