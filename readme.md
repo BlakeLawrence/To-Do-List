@@ -14,7 +14,6 @@ This app is one of my first projects and is here to display my understanding of 
 - if you want to delete a specific item, click the red cross ❌ next to the item to delete the item
 
 ## See it here
-
 https://blakes-todo-list.netlify.app
 
 ## Clone Repository
